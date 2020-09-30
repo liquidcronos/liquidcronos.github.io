@@ -30,4 +30,5 @@ algorithms used
 
 Final Project
 ======
-The final Project had the students split into groups to develop their own robot with the following requirements:
+The final Project had the students split into groups to develop their own robot.
+The requirements can be found [here](https://github.com/liquidcronos/liquidcronos.github.io/blob/master/files/aufgabenstellung_rg_ws1920.pdf)
