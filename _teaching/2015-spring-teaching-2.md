@@ -22,7 +22,7 @@ As part of this lecture we also tried to offer multiple specialisations :
 
 Force based modeling
 ======
-![may_the_force](https://github.com/liquidcronos/liquidcronos.github.io/blob/master/images/teaching/may_the_force.PNG)
+![may_the_force](https://raw.githubusercontent.com/liquidcronos/liquidcronos.github.io/master/images/teaching/may_the_force.PNG)
 The first specialisation foccused on purely reactive force based methods and explored how one could take those concepts.
 
 
