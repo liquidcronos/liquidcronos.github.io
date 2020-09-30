@@ -1,7 +1,13 @@
+---
+permalink: /
+title: "Hi there 👋, im Jan"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
-
-
-### Hi there 👋, im Jan
 
 I am a researcher at the university of Heidelberg currently working as the project lead and architect of the [TriPed Robot](https://github.com/TriPed-Robot).
 
