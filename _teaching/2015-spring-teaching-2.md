@@ -28,10 +28,10 @@ The first specialisation foccused on purely reactive force based methods and exp
 
 MiniMax
 ======
-![chess](https://github.com/liquidcronos/liquidcronos.github.io/blob/master/images/teaching/chess.PNG)
+![chess](https://raw.githubusercontent.com/liquidcronos/liquidcronos.github.io/master/images/teaching/chess.PNG)
 The second specialisation focussed on minimax and other gametheoretic search based algorithms and how they can be applied to the setting of mobile robots.
 
 HTN
 ======
-![planners](https://github.com/liquidcronos/liquidcronos.github.io/blob/master/images/teaching/games.PNG)
+![planners](https://raw.githubusercontent.com/liquidcronos/liquidcronos.github.io/master/images/teaching/games.PNG)
 The third and final specialisation focussed on HTN Planning, a techniqui widely used in the field of video games and discussed how it can be used to coordinate multiple mobile robots into "herds".
