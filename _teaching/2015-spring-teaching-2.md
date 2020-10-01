@@ -3,7 +3,7 @@ title: "Robotic Games SS 20"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/2019-ws-robotic-games
-venue: "Heidelberg University, Chair of Automation"
+venue: "Heidelberg University, Aries Lab"
 date: 2019-08-16
 location: "Heidelberg, Germany"
 ---
