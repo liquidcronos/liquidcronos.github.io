@@ -36,6 +36,7 @@ Skills
 ======
 * System Modelling and Simulation
 * Robotics
+  * Unmaned Aerial Vehicles (Drones)
   * Mobile Robots
   * Walking Robots
 * Control Theory
