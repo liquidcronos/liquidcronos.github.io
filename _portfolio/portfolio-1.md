@@ -1,6 +1,6 @@
 ---
 title: "ProAut Hexacopter"
-excerpt: "build as part of my bachelor thesis<br/><img src='https://github.com/TriPed-Robot/TriPed-Robot.github.io/blob/master/triped.png'>"
+excerpt: "build as part of my bachelor thesis<br/><img src='https://raw.githubusercontent.com/liquidcronos/optical-stabilisation/master/pictures/aufbau.png'>"
 collection: portfolio
 ---
 
