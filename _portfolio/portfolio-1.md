@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "ProAut Hexacopter I build as part of my bachelor thesis with custom printed 3d printed undercarriage"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://github.com/TriPed-Robot/TriPed-Robot.github.io/blob/master/triped.png?raw=true'>"
 collection: portfolio
 ---
 
