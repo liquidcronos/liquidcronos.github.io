@@ -1,5 +1,5 @@
 ---
-title: "Robotic Games WS 19/20"
+title: "Tutor Robotic Games WS 19/20"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/2019-ws-robotic-games
