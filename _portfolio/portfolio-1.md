@@ -1,6 +1,6 @@
 ---
-title: "ProAut Hexacopter I build as part of my bachelor thesis with custom printed 3d printed undercarriage"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://github.com/TriPed-Robot/TriPed-Robot.github.io/blob/master/triped.png?raw=true'>"
+title: "ProAut Hexacopter"
+excerpt: "build as part of my bachelor thesis using custom 3d printed undercarriage to house additional elecontrics<br/><img src='https://github.com/TriPed-Robot/TriPed-Robot.github.io/blob/master/triped.png?raw=true'>"
 collection: portfolio
 ---
 
