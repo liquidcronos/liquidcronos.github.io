@@ -11,30 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, Heidelberg University, 2019
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2020: Research Assistant
+  * Heidelberg University Proaut lab
+  * Duties included: designing and implementing a new mobile robot, developing a new AI based lecture, tutoring Intelligent Systems, designing and implementing a new SLAM algorithm using Aruco Markers 
+  * Supervisor: Professor Essameddin Badreddin
+* 2020: Research Assistant
+  * Heidelberg University Proaut lab Medical Technology Group
+  * Duties included: coordinating the procurement of the TriPed Robot, formulating requirements for TriPed workpackages, superivse multiple thesis on the TriPed
+  * Supervisor: Professor Lorenzo Masia
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* System Modelling and Simulation
+* Robotics
+  * Mobile Robots
+  * Walking Robots
+* Control Theory
+* Optimal Control
+* Fuzzy Logic
+* Kalman Filtering
+
 
 Publications
 ======
