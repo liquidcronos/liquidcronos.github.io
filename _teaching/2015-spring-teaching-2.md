@@ -1,5 +1,5 @@
 ---
-title: "Robotic Games SS 20"
+title: "Co-lecturer Robotic Games SS 20"
 collection: teaching
 type: "graduate course"
 permalink: /teaching/2019-ws-robotic-games
