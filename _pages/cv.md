@@ -18,12 +18,12 @@ Work experience
 ======
 * 2019-2020: Research Assistant
   * Heidelberg University Proaut lab
-  * Duties included:
+  * Duties included:  
   designing and implementing a new mobile robot, developing a new AI based lecture, tutoring Intelligent Systems, designing and implementing a new SLAM algorithm using Aruco Markers 
   * Supervisor: Professor Essameddin Badreddin
 * 2020: Research Assistant
   * Heidelberg University Proaut lab Medical Technology Group
-  * Duties included: 
+  * Duties included:  
   coordinating the procurement of the TriPed Robot, formulating requirements for TriPed workpackages, superivse multiple thesis on the TriPed
   * Supervisor: Professor Lorenzo Masia
   
