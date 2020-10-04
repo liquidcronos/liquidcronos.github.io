@@ -1,6 +1,6 @@
 ---
 title: "Roger"
-excerpt: "RObotic Games Exploratory Robot<br/><img src='https://raw.githubusercontent.com/liquidcronos/ROGER-RObotic-Games-Exploratory-Robot-/master/Pictures/Roger_white.png'>"
+excerpt: "RObotic Games Exploratory Robot<br/><img src='https://raw.githubusercontent.com/liquidcronos/ROGER-RObotic-Games-Exploratory-Robot-/master/Pictures/Roger_white.png' width="500">"
 collection: portfolio
 ---
 
