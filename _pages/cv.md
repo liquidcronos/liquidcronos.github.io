@@ -29,7 +29,8 @@ Work experience
   * Duties included:  
   coordinating the procurement of the TriPed Robot,  
   formulating requirements for TriPed workpackages,  
-  superivse multiple thesis on the TriPed.
+  superivse multiple thesis on the TriPed,  
+  Writing grant/ethics proposals.
   * Supervisor: Professor Lorenzo Masia
   
 Skills
