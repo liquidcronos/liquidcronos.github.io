@@ -1,6 +1,6 @@
 ---
 title: "RoGaTa Engine"
-excerpt: "Hardware in the Loop Game engine <br/><img src='https://raw.githubusercontent.com/liquidcronos/RoGaTa-Engine/main/docs/source/rogata_title_turtle.png' width='500'>"
+excerpt: "Hardware in the Loop Game engine <br/><img src='https://raw.githubusercontent.com/liquidcronos/liquidcronos.github.io/master/images/rogata_banner.png' width='500'>"
 collection: portfolio
 ---
 The Robotic Games Tabletop engine is a set of ROS based software tools that bridge the gap between mobile robotics and game development. It uses a camera to identify real objects and areas and iinitialize them as game objects. This allows the engine to offer the same functionality a normal game engine provides.
