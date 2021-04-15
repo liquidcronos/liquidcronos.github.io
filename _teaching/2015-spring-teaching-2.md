@@ -2,9 +2,9 @@
 title: "Co-lecturer Robotic Games SS 20"
 collection: teaching
 type: "graduate course"
-permalink: /teaching/2019-ws-robotic-games
+permalink: /teaching/2020-ss-robotic-games
 venue: "Heidelberg University, Aries Lab"
-date: 2019-08-16
+date: 2020-04-15
 location: "Heidelberg, Germany"
 ---
 
