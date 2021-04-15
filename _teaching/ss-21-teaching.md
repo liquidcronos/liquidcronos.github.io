@@ -10,6 +10,4 @@ location: "Heidelberg, Germany"
 
 The lecture robotic Games is a colaboration between me and Holger Dieterich focussing on higher level reasoning.
 
-Due to covid the lectures are live streamed and later uploaded to youtube.
-They can  be found under the following link:
-https://www.youtube.com/watch?v=iPRqdtDcI58&list=PLGcs1ZAnxbJfluF5CzKnjgrk9TpspDvoJ
+Due to covid the lectures are live streamed and later uploaded to [youtube](https://www.youtube.com/watch?v=iPRqdtDcI58&list=PLGcs1ZAnxbJfluF5CzKnjgrk9TpspDvoJ).
