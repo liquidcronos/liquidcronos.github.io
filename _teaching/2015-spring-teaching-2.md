@@ -12,7 +12,7 @@ The lecture robotic Games was originaly the brainchild of Holger Dieterich.
 After the first iteration of the lecture i expressed interest to help him improve and shape the lecture.
 Since then we have continued to refine it.
 
-We had in preperation of the new semester build a new lab and aquired 5 new [turtlebot3 robots](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) for the students to work with.
+We had in preperation of the new semester build a new lab and aquired 6 new [turtlebot3 robots](https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/) for the students to work with.
 Covid19 however hit us hard and we had to pivot to a simulation based lecture.
 This meant rewriting or scrapping several of the exercise sheets.
 Still we tried to further refine the lecture by focussing the content even more, neglecting the camera based methods of the last semester and focussing more on the intelligent control.
