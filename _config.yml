@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jan Baumgärtner"
-  avatar           : "profile.png"
+  avatar           : "https://avatars.githubusercontent.com/u/22688144?v=4"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Heidelberg, Germany"
   employer         :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/channel/UCnbhNyP3RjmAfneHtcz_h3g"
   wikipedia        :
 
 
