@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, Heidelberg University, 2019
+* M.S. in Computer Engineering, Heidelberg University, 2021
 
 
 Work experience
