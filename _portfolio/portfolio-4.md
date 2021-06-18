@@ -1,6 +1,6 @@
 ---
 title: "ProAut Hexacopter"
-excerpt: "build as part of my bachelor thesis<br/><img src='https://raw.githubusercontent.com/liquidcronos/optical-stabilisation/master/pictures/aufbau.png' width='500'>"
+excerpt: "<br/><img src='https://raw.githubusercontent.com/liquidcronos/optical-stabilisation/master/pictures/aufbau.png' width='500'>"
 collection: portfolio
 ---
 
