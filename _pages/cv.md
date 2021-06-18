@@ -25,7 +25,7 @@ Work experience
   tutoring Intelligent Systems,  
   designing and implementing a new SLAM algorithm using Aruco Markers.
   * Supervisor: Professor Essameddin Badreddin
-* 2020: Research Assistant
+* 2020-2021: Research Assistant
   * Heidelberg University Proaut lab Medical Technology Group
   * Duties included:  
   coordinating the procurement of the TriPed Robot,  
@@ -33,6 +33,11 @@ Work experience
   superivse multiple thesis on the TriPed,  
   Writing grant/ethics proposals.
   * Supervisor: Professor Lorenzo Masia
+* 2021: Researcher
+  * Heidelberg University institute for computer engineering
+  * Duties include:
+  Teaching selfdeviced lecture [robotic games](https://liquidcronos.github.io/teaching/2021-ss-robotic-games),
+  further developing the [TriPed robot](https://triped-robot.github.io/docs/robot/), and general research towards cooperative control.
   
 Skills
 ======
@@ -43,8 +48,10 @@ Skills
   * Walking Robots
 * Control Theory
 * Optimal Control
-* Fuzzy Logic
 * Kalman Filtering
+* Fuzzy Logic
+* Planning Algorithm
+* Differential Games
 
 
 Publications
