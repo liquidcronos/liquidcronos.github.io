@@ -1,6 +1,6 @@
 ---
 title: "TriPed Robot"
-excerpt: "distributed walking robot <br/><img src='https://triped-robot.github.io/triped_web_banner.png' width='500'>"
+excerpt: "<br/><img src='https://triped-robot.github.io/triped_web_banner.png' width='500'>"
 collection: portfolio
 ---
 The TriPed is new robot at the [Aries Lab](https://www.lorenzomasia.com/lab-and-people). It was build according to our specifications at the university of stutgart.
