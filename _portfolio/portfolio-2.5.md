@@ -1,9 +1,10 @@
 ---
-title: "TriPed Robot"
+title: "TriPed Simulation"
 excerpt: "<br/><img src='https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/sim_full_parts.png' width='500'>"
 collection: portfolio
 ---
 
+![TriPed_sim](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/sim_full_parts.png)
 
 ## Goal
 To accelerate the development of the TriPed project, it was necessary to parallelize the development of the different layers of the control architectures.
