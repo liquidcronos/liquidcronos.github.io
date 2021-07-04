@@ -35,7 +35,7 @@ I additionally developed a decentralized gait generator in which each leg uses o
 
 ![decent_walking](https://user-images.githubusercontent.com/22688144/124389188-574a2d80-dce6-11eb-8980-1a6f0fd0f7c6.gif)
 
-Note that while this seems similar to the centralized walking agent provided [here](https://triped-robot.github.io/docs/matlab_getting_started/) it truly is decentralized and is self-synchronizing, which can be seen if each controller is started at a different time
+Note that while this seems similar to the centralized walking agent provided [here](https://triped-robot.github.io/docs/matlab_getting_started/) it truly is decentralized and is self-synchronizing, which can be seen if each controller is started at a different time:
 ![decent_synchro](https://user-images.githubusercontent.com/22688144/124389703-98434180-dce8-11eb-8d53-e0efcf5749a6.gif)
 
 
