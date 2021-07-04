@@ -7,7 +7,7 @@ collection: portfolio
 ![TriPed_sim](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/sim_full_parts.png)
 
 ## Goal
-To accelerate the development of the TriPed project, it was necessary to parallelize the development of the different layers of the control architectures.
+To accelerate the development of the [TriPed project](https://triped-robot.github.io/), it was necessary to parallelize the development of the different layers of the control architectures.
 
 This necessitated the development of a  simulation that could not only provide interfaces at different abstraction levels.
 
