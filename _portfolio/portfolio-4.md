@@ -1,5 +1,5 @@
 ---
-title: "Measurment of the relative groundspeed of a SUAV using monocular camera and sonar sensor"
+title: "Monocular Camera based Velocity Measurment"
 excerpt: "<br/><img src='https://user-images.githubusercontent.com/22688144/124380804-230f4680-dcbf-11eb-8c95-10bbb67b3d52.png' width='500'>"
 collection: portfolio
 ---
