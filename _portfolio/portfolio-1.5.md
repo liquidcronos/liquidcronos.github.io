@@ -1,6 +1,7 @@
+
 ---
 title: "Decentralized Gait Generator"
-excerpt: "<br/><img src='https://user-images.githubusercontent.com/22688144/124395132-ac943800-dd02-11eb-8fdd-d6bfdc0593bb.png' width='500'>"
+excerpt: "<br/><img src='https://user-images.githubusercontent.com/22688144/124396303-fd0e9400-dd08-11eb-9b4a-ee071a588fc5.png' width='500'>"
 collection: portfolio
 ---
 
