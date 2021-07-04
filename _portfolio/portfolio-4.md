@@ -46,3 +46,8 @@ However, these results were only verified inside a simulation and recorded traff
 This is because due to timing constraints no sufficient experimental validation could be conducted (though the first experiments looked promising)
 
 For more information about the project visit [this repo](https://github.com/liquidcronos/optical-stabilisation/wiki)
+
+## What I learned
+This project was my first foray into working with actual hardware.
+As such it taught me many of the practical considerations often ignored in simulations.
+Examples include the necessity for vibration proofing sensors and possible computational performance drops if the motors of a system draw to much current.
