@@ -5,9 +5,10 @@ collection: portfolio
 ---
 
 ## Goal
-The TriPed is a new robot at the [Aries Lab](https://www.lorenzomasia.com/lab-and-people). It was build according to our specifications at the University of Stuttgart.
+The [TriPed](https://triped-robot.github.io/) is a new robot at Heidelberg University. It was build according to our specifications at the [IMT Stuttgart](https://www.imt.uni-stuttgart.de/).
 The Final Aim of this robot is to study cooperation between machines and humans or machines and machines. 
 But before this is possible the robot needs to be actuated. For this purpose, a hardware and software architecture was developed and is currently being implemented.
+
 
 
 ## Problem/Complication
@@ -44,8 +45,9 @@ Since much of the initial sensor/actuator integration is now finished I continue
 
 
 ## Result
-The project is still ongoing, for more information visit [this site](https://triped-robot.github.io/)
+The project is still ongoing, for more information visit the TriPed project page by clicking on the image below
 
+[![IMAGE ALT TEXT HERE](https://triped-robot.github.io/triped_web_banner.png)](https://triped-robot.github.io/)
 ## What I learned
 This project has certainly opened my eyes to the intricacies of controller design when dealing with physical system constraints such as BUS communication limitations,  gear backlash, or even communication breakdown-based bugs.
 
