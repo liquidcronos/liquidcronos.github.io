@@ -28,9 +28,14 @@ For this purpose, I developed a system architecture encompassing feedback contro
 
 To help mitigate the effect of the complicated closed kinematic chain of the legs, I developed a new closing equation that models the influence of a coupling rod as forcing the output lever of the swing motors onto the surface of a sphere
 
+![geometric_closing_equation](https://user-images.githubusercontent.com/22688144/124389180-4dc0c580-dce6-11eb-8566-3a15b9a866e1.png)
+
 
 I additionally developed a decentralized gait generator in which each leg uses only local sensor information and has no knowledge of the whole system model.
 
+![decent_walking](https://user-images.githubusercontent.com/22688144/124389188-574a2d80-dce6-11eb-8980-1a6f0fd0f7c6.gif)
+Note that while this seems similar to the centralized walking agent provided [here](https://triped-robot.github.io/docs/matlab_getting_started/) it truly is decentralized and is self-synchronizing, which can be seen if each controller is started at a different time
+![decent_synchro](https://user-images.githubusercontent.com/22688144/124389703-98434180-dce8-11eb-8d53-e0efcf5749a6.gif)
 
 
 Since much of the initial sensor/actuator integration is finished I continue developing and implementing this higher-level functionality by myself.
