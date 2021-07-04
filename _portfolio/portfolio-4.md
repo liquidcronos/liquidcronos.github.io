@@ -20,7 +20,7 @@ Another much more subtle problem is presented by reflections (pictured in purple
 
 
 
-## Contribution
+## Solution
 
 I not only implemented an optical-flow-based algorithm to estimate the velocity of an SUAV relative to the ground.
 The problem above was addressed by developing several measures which compare the movement of features in the images with the current velocity estimate of the SUAV.
