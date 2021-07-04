@@ -26,7 +26,7 @@ This includes everything from PCB design, embedded control, to high-level gait g
 Initially, I headed a team of 3 research assistants as well as coordinating with our lab engineer.
 For this purpose, I developed a system architecture encompassing feedback controllers, software, and embedded hardware.
 
-![decentralised_controller](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/full_control_network.png)
+![leg_control_as_rnbc](https://user-images.githubusercontent.com/22688144/124397539-a60cbd00-dd10-11eb-9c71-1e64ce75edd3.png)
 
 More information about the software architecture can be found [here](https://triped-robot.github.io/docs/software_arch/)
 
