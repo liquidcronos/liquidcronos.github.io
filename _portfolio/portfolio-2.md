@@ -3,18 +3,41 @@ title: "RoGaTa Engine"
 excerpt: "Hardware in the Loop Game engine <br/><img src='https://raw.githubusercontent.com/liquidcronos/liquidcronos.github.io/master/images/rogata_banner.png' width='500'>"
 collection: portfolio
 ---
-The Robotic Games Tabletop engine is a set of ROS based software tools that bridge the gap between mobile robotics and game development. It uses a camera to identify real objects and areas and iinitialize them as game objects. This allows the engine to offer the same functionality a normal game engine provides.
 
-Example functionalities include: 
-* calculate line of sight between robots without on-board cameras 
+## Goal
+When developing robotics programs inside a simulation, one has the benefit of having perfect information about every aspect of the robot and its environment.
+
+This does not only help with debugging but also with training machine learning agents.
+
+The goal of this project was to bridge this gap between a simulation and real life, by monitoring an area in the real world and providing the same functionality a simulation would provide.
+
+
+
+
+## Problem/Complication
+To provide the same functionality as a simulation, real-life objects have to be recognized as  *game objects* which can then be interacted with.
+
+For ease of use, the setup of these objects has to be straightforward and fast.
+
+## Solution
+![how_it_works](https://rogata-engine.readthedocs.io/en/latest/_images/setup.png)
+To solve this problem, I used a camera above the game area and specified game objects using color.
+
+This allows easy setup of objects by simply painting their border in a specified color.
+To be able to reuse the same color and specify more complicated objects with holes, aruco markers can be used to uniquely ID the border of an object. 
+The object tracking is done using OpenCV
+
+The whole system is then packaged into a ROS node which offers a [service server](http://wiki.ros.org/Services) which allows other ROS nodes to interact with the game world.
+
+## Result
+The resulting Game engine allows  for automatic tracking of moving objects and basic functionality such as:
+
+* get the state of any desired game object 
+* calculate the line of sight between robots without on-board cameras 
 * check if a robot has entered a specified area 
 * simulate laser scanner readings with virtual walls
 
-Using these functionalities it is possible to develop video games which use real robots as actors.
+The full documentation can be found on [https://rogata-engine.readthedocs.io/](https://rogata-engine.readthedocs.io/en/latest/what_is_rogata.html) 
 
-## Who this engine is for
-Since most games require multiple robots this engine is primarily aimed at educators. The idea being that games can be set up with students developing the ‘ai’ of the npcs thereby familiarzing themself with the development of mobile robots.
-
-However the engine can also be used for experiments with single robots as the virtual game objects allow the simulation of sensor data such as a laser scanner. Therefore the engine might also be usefull to researchers who need to quickly set up multiple arenas for their mobile robots, or might want to use the additional information the enigne provides for a fitness function of a machine learning approach
-## Documentation
-The Docoumentation can be found on [https://rogata-engine.readthedocs.io/](https://rogata-engine.readthedocs.io/en/latest/what_is_rogata.html) 
+## What I learned 
+This was the first project which was designed to be used by people outside of my lab, which is why I concerned myself a lot with auto-generating and hosting documentation as well as streamlining the package installation.
