@@ -1,6 +1,6 @@
 ---
 title: "RoGaTa Engine"
-excerpt: "Hardware in the Loop Game engine <br/><img src='https://raw.githubusercontent.com/liquidcronos/liquidcronos.github.io/master/images/rogata_banner.png' width='500'>"
+excerpt: " <br/><img src='https://raw.githubusercontent.com/liquidcronos/liquidcronos.github.io/master/images/rogata_banner.png' width='500'>"
 collection: portfolio
 ---
 
