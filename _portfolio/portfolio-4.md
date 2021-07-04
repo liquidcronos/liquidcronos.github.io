@@ -10,7 +10,7 @@ An estimate of a SUAVs (Small Unmanned Aerial Vehicle) velocity is paramount for
 
 For this reason, the GOAl of this project was to measure a SUAVs velocity using a monocular camera (that most SUAVS already possess) as well as a sonar sensor.
 
-##Problems/Complications
+## Problems/Complications
 There are several algorithms capable of estimating the velocity of a camera relative to a static plane.
 However, in the real world, there are some complications which are illustrated in the picture below.
 ![TD4sijIg](https://user-images.githubusercontent.com/22688144/124380565-9912ae00-dcbd-11eb-9575-3cf124d80c5b.jpeg)
