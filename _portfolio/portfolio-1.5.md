@@ -1,6 +1,6 @@
 ---
 title: "Decentralized Gait Generator"
-excerpt: "<br/><img src='https://triped-robot.github.io/triped_web_banner.png' width='500'>"
+excerpt: "<br/><img src='https://user-images.githubusercontent.com/22688144/124395132-ac943800-dd02-11eb-8fdd-d6bfdc0593bb.png' width='500'>"
 collection: portfolio
 ---
 
@@ -40,6 +40,7 @@ converting this *pendulum mixture model* into [barycentric coordinates](https://
 
 The new controller results in stable movement, as can be seen down below.
 ![decent_walking](https://user-images.githubusercontent.com/22688144/124389188-574a2d80-dce6-11eb-8980-1a6f0fd0f7c6.gif)
+
 Note that the perfectly synchronous moving of the chassis is due to the self-synchronization of the weight redistribution controller which can be seen here:
 
 ![decent_synchro](https://user-images.githubusercontent.com/22688144/124389703-98434180-dce8-11eb-8d53-e0efcf5749a6.gif)
