@@ -20,7 +20,7 @@ I am a researcher and educator at the university of Heidelberg  interested in ro
 I have a passion for learning and sharing my knowledge with others.  
 
 Click the Links above to see what I am currently up to, and if you are interested in working with me, feel free to 
-<a href="mailto:jan-baumgaertner@web.de">  contact me</a> !
+<a href="mailto:jan-baumgaertner@web.de">  contact me</a>!
 
 
 
