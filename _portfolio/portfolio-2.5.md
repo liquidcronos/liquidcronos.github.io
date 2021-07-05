@@ -27,9 +27,9 @@ While a more streamlined and faster calculation was being workded on that meant 
 
 
 ## Contribution
-The simulation was a joint effort between me and Max Goebels who laid the foundation of this simulation in his bachelor thesis.
+The simulation was a joint effort between me and Max Goebels who laid the foundation of this simulation in his bachelor thesis which was supervised by me.
 
-Since then then I have streamlined the simulation, improving its performance by over a factor of 100, while retaining the same accuracy.
+Since then then I have fixed mistakes relating to sensor output conventions, and streamlined the simulation, improving its performance by over a factor of 100, while retaining the same accuracy.
 This was done by not only optimising the choice of solver but also using relaxation techniquies to circumvent complicated algebraic constraints.
  At the same time suitable initial conditions for the solver where choosen to prevent the system from oscillating between the multiple solutions of the inverse kinematics:
 ![mult_inv_kin](https://raw.githubusercontent.com/TriPed-Robot/TriPed-Robot.github.io/master/images/triped_2_bar_sec.png)
